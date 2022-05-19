@@ -1,0 +1,31 @@
+
+.explicacion {
+    background-color: red;
+    color: white;
+    width: 70%;
+    height: 70%;
+}
+
+.azul {
+    width: 300px;
+    height: 200px;
+    background-color: blue;
+    color: white;
+    margin-bottom: 10px;
+    padding: 20px;
+    box-sizing: border-box;
+    
+    
+
+}
+
+.rojo {
+    width: 300px;
+    height: 200px;
+    background-color: red;
+    color: white;
+    text-align: center;
+    padding: 10%;
+    
+
+}
