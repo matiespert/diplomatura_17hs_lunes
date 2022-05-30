@@ -1,0 +1,48 @@
+.contenedor {
+    background-color: white;
+    width: 100%px;
+    height: 154px;
+    box-sizing: border-box;
+    border: solid 2px black;
+    display: flex;
+    /* align-items: center; */
+    flex-wrap: nowrap;
+    justify-content: space-between;
+    
+    
+    
+}
+
+.numero01 {
+    width: 150px;
+    height: 150px;
+    background-color: red;
+    flex-wrap: nowrap;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+
+.numero02 {
+    width: 150px;
+    height: 150px;
+    background-color: blue;
+    flex-wrap: nowrap;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.numero03 {
+    width: 150px;
+    height: 150px;
+    background-color: green;
+    flex-wrap: nowrap;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}

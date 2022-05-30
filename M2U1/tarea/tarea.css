@@ -1,0 +1,89 @@
+body {
+    font-family: 'Roboto', sans-serif;
+}
+
+div {
+background-color: rgb(160, 28, 28);
+/* margin: 10px 5px 5px 10px; */
+align-items: center;
+justify-content: center;
+border-radius: 10px;
+color: white;
+    
+}
+
+.contenedor {
+    display: flex;
+    flex-direction: column;
+    width: 75%;
+    height: 75%;
+    margin: 10%;
+    align-items: center;
+    
+}
+
+.nombre {
+    width: 75%;
+    height: 75%;
+    text-align: center;
+    display: flex;
+    
+    
+}
+
+.foto{
+    
+    display: flex;
+}
+
+img {
+
+    width: 80%;
+    height: 80%;
+    border-radius: 70%;
+    margin-top: 20px;
+    margin-left: 150px;
+    
+    
+    
+}
+
+.datos {
+
+    width: 75%;
+    height: 75%;
+    
+}
+
+.series {
+
+    width: 75%;
+    height: 75%;
+     
+}
+
+.peliculas {
+
+    width: 75%;
+    height: 75%;
+    
+}
+
+.actividades{
+
+    width: 75%;
+    height: 75%;
+    
+}
+
+.contacto {
+
+    text-align: center;
+    width: 75%;
+    height: 75%;
+    
+}
+
+a {
+    color: white;
+}

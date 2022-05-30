@@ -1,0 +1,26 @@
+
+body{
+    font-family: 'Roboto', sans-serif;
+}
+
+.caja {
+    width: 600px;
+    height: 300px;
+    background-color: yellow;
+    margin: 100px;
+    border-radius: 20px 0 20px 0;
+    padding: 20px;
+    text-align: center;
+    box-sizing: border-box;
+    box-shadow: 10px 10px 30px black;
+    /* eje x - eje y - desenfoque - color */
+    column-count: 3;
+    column-gap:50px;
+    column-rule: 1px solid red;
+}
+
+.caja p {
+    margin: 0;
+    
+    
+}
